@@ -3,22 +3,22 @@ channels:
   - conda-forge
 dependencies:
   - python=3.7
-  - aiohttp
-  - trio
+  # - aiohttp
+  # - trio
   - pip
-  - cookiecutter=1.6
+  # - cookiecutter=1.6
   - notebook=5.7
   - pandas=0.24
-  - nodejs=9.11
+  # - nodejs=9.11
   - jupyterlab
-  - bqplot
-  - pythreejs
-  - line_profiler
+  # - bqplot
+  # - pythreejs
+  # - line_profiler
   - matplotlib
-  - rpy2
-  - simplegeneric
-  - cython
-  - pillow
+  # - rpy2
+  # - simplegeneric
+  # - cython
+  # - pillow
   - tesseract
   - pip:
     - pytesseract
